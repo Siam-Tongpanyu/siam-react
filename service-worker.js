@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/siam-react/precache-manifest.291872592212eb3f6b9f216019e8601c.js"
+  "/siam-react/precache-manifest.49adfbde3563b711178bfae931b9fc4c.js"
 );
 
 self.addEventListener('message', (event) => {
