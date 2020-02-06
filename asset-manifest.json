@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/siam-react/static/css/main.b8963c73.chunk.css",
-    "main.js": "/siam-react/static/js/main.a2ddf3a0.chunk.js",
-    "main.js.map": "/siam-react/static/js/main.a2ddf3a0.chunk.js.map",
+    "main.js": "/siam-react/static/js/main.f27bae82.chunk.js",
+    "main.js.map": "/siam-react/static/js/main.f27bae82.chunk.js.map",
     "runtime-main.js": "/siam-react/static/js/runtime-main.cef894ee.js",
     "runtime-main.js.map": "/siam-react/static/js/runtime-main.cef894ee.js.map",
     "static/css/2.47e06e2e.chunk.css": "/siam-react/static/css/2.47e06e2e.chunk.css",
     "static/js/2.b3023b24.chunk.js": "/siam-react/static/js/2.b3023b24.chunk.js",
     "static/js/2.b3023b24.chunk.js.map": "/siam-react/static/js/2.b3023b24.chunk.js.map",
     "index.html": "/siam-react/index.html",
-    "precache-manifest.b774e55f8ba472821d339d5f88ef8940.js": "/siam-react/precache-manifest.b774e55f8ba472821d339d5f88ef8940.js",
+    "precache-manifest.291872592212eb3f6b9f216019e8601c.js": "/siam-react/precache-manifest.291872592212eb3f6b9f216019e8601c.js",
     "service-worker.js": "/siam-react/service-worker.js",
     "static/css/2.47e06e2e.chunk.css.map": "/siam-react/static/css/2.47e06e2e.chunk.css.map",
     "static/css/main.b8963c73.chunk.css.map": "/siam-react/static/css/main.b8963c73.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.47e06e2e.chunk.css",
     "static/js/2.b3023b24.chunk.js",
     "static/css/main.b8963c73.chunk.css",
-    "static/js/main.a2ddf3a0.chunk.js"
+    "static/js/main.f27bae82.chunk.js"
   ]
 }
