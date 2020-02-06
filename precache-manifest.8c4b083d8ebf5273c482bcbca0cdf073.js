@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9b427a92d877ab52fc4ef2e2822f79a1",
+    "revision": "985aa1eeae8e4bef7f0b6bd77aa96406",
     "url": "/siam-react/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/siam-react/static/css/2.47e06e2e.chunk.css"
   },
   {
-    "revision": "b249666df116383e76cc",
+    "revision": "72f4e064b126f2445e82",
     "url": "/siam-react/static/css/main.b8963c73.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/siam-react/static/js/2.b3023b24.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b249666df116383e76cc",
-    "url": "/siam-react/static/js/main.e14d0fca.chunk.js"
+    "revision": "72f4e064b126f2445e82",
+    "url": "/siam-react/static/js/main.114f0ead.chunk.js"
   },
   {
     "revision": "3be004c5a9182f2bc85d",
